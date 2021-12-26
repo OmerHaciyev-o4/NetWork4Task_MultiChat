@@ -1,0 +1,15 @@
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\bin\Debug\NetWork4Task_MultiChat.exe.config
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\bin\Debug\NetWork4Task_MultiChat.exe
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\bin\Debug\NetWork4Task_MultiChat.pdb
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\MVVM\Views\MainWindow.g.cs
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\App.g.cs
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat_MarkupCompile.cache
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat_MarkupCompile.lref
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\MVVM\Views\MainWindow.baml
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.g.resources
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.Properties.Resources.resources
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.exe
+C:\Users\Omer\source\repos\NetWork4Task_MultiChat\NetWork4Task_MultiChat\obj\Debug\NetWork4Task_MultiChat.pdb
